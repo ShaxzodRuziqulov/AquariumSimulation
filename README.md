@@ -1,11 +1,11 @@
 # AquariumSimulation
-Aquarium Simulation
+**Aquarium Simulation**
 
-Loyihaning maqsadi
+**Loyihaning maqsadi**
 
 Ushbu dastur akvariumdagi baliqlarning hayot jarayonini simulyatsiya qiladi. Baliqlar o'z umrini yashab, harakatlanadi, bir-biri bilan uchrashib nasl qoldiradi va tabiiy ravishda vafot etadi. Akvariumning hajmi, sig'imi va baliqlarning harakatlanish qoidalari belgilangan.
 
-Xususiyatlari
+**Xususiyatlari**
 
 Akvarium kenglik, balandlik va maksimal sig'imga ega.
 
@@ -21,7 +21,7 @@ Akvariumdagi baliqlar soni sig'imdan oshib ketsa, yangi baliqlar tug'ilmaydi.
 
 Agar barcha baliqlar vafot etsa, simulyatsiya to'xtaydi.
 
-Ishlatish
+**Ishlatish**
 
 Java o'rnatilganligini tekshiring.
 
@@ -33,23 +33,15 @@ Dastur ishlashi davomida baliqlar harakatlanib, nasl qoldiradi va tabiiy ravishd
 
 Barcha baliqlar nobud bo'lgach yoki dastur to'xtatilganda simulyatsiya yakunlanadi.
 
-Foydalanilgan texnologiyalar
+**Foydalanilgan texnologiyalar**
 
-Java - dasturlash tili
+_Java - dasturlash tili
 
 Multithreading - har bir baliq alohida oqimda ishlaydi
 
 Collections API - baliqlarni saqlash va boshqarish uchun
 
-Concurrency - akvariumdagi baliqlarning harakatini boshqarish
-
-Kelajakdagi yangilanishlar
-
-Baliqlarning turli xil turlari va o'ziga xos xususiyatlarini qo'shish
-
-Vizual interfeys qo'shish
-
-Sun'iy intellekt asosida harakatlanish strategiyalarini qo'shish
+Concurrency - akvariumdagi baliqlarning harakatini boshqarish_
 
 Muallif
 
